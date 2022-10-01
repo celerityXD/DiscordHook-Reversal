@@ -4,7 +4,7 @@
 
 ## Infos: 
 
--> Sigs of commenly used DiscordHook functions such as Present & GetAsyncKeyState
+-> Sigs of commonly used DiscordHook functions such as Present & GetAsyncKeyState
 
 ## Sigs & Offsets
 
