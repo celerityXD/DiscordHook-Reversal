@@ -10,7 +10,7 @@
 
 ## Sigs & Offsets
 
-DiscordHook_Present: 56 57 53 48 83 EC 30 44 89 C6 -> 0x107080 (Updated)
+DiscordHook_Present: 56 57 53 48 83 EC 30 44 89 C6 -> 0xE0080 (Updated as of: February 20 2023)
 
 DiscordHook_GetKeyboardState: 56 57 48 83 EC 28 48 89 CE FF 15 ? ? ? ? -> 0x1B7948
 
